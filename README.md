@@ -1,3 +1,12 @@
+**Build this Next Website in order to learn same tech stack**
+<img width="1280" alt="Screenshot 2024-03-30 at 4 57 00 PM" src="https://github.com/iamtanmay07/dashboard-next/assets/96469706/e36df668-52be-40ca-923f-38c5523be0c0">
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
